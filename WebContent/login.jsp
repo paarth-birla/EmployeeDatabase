@@ -16,8 +16,9 @@
 			<label for="password">Password </label><input type="password" id="password" name="password" required="required" />
 			<br><br>
 			<button type="reset">Cancel</button>
+			<br><br>
 			<button type="submit" style="background: #DF4E18;">Login</button>
-			
+			<br><br>
 			<a href="signup.jsp">Signup</a>
 		</form>
 	</div>

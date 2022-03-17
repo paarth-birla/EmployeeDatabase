@@ -33,7 +33,7 @@
 			<br>
 			<br>
 			<button type="submit" style="background: #DF4E18;">Signup</button>
-			<br>
+			<br><br>
 			<a href="login.jsp">Login</a>
 		</form>
 	</div>
